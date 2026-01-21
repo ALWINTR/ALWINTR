@@ -67,5 +67,5 @@ Contribute to open-source robotics projects
 📫 Connect With Me  
 
 GitHub: https://github.com/alwi-13 
-LinkedIn: (Add when ready)  
-Email: (Optional)  
+LinkedIn:  www.linkedin.com/in/alwin-t-r-
+Email: alwintr2003@gmail.com  
