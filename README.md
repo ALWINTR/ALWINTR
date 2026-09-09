@@ -79,21 +79,6 @@
 
 ---
 
-## 📊 GitHub Analytics & Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ALWINTR&show_icons=true&title_color=ef4444&icon_color=ff1744&text_color=e2e8f0&bg_color=0d1117&border_color=ef4444&hide_border=false" alt="Alwin's GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALWINTR&layout=compact&title_color=ef4444&text_color=e2e8f0&bg_color=0d1117&border_color=ef4444&hide_border=false" alt="Top Languages" width="48%" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ALWINTR&theme=tokyonight&ring=ef4444&fire=ff1744&currStreakLabel=ef4444&background=0d1117&border=ef4444" alt="GitHub Streak" width="97%" />
-
-</div>
-
----
-
 ## 🎯 Engineering Goals & Milestones
 
 - [x] Design and fabricate differential drive surveillance mobile robots.
