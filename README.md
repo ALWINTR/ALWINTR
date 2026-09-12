@@ -68,11 +68,11 @@
 
 | Project | Core Stack | Description | Source |
 |:---|:---|:---|:---:|
-| 🤖 **SpyBot Surveillance Robot** | `ESP32` `Arduino` `Sensors` `Embedded C` | Long-range surveillance rover with real-time hazardous gas detection and metal detection. | [View Repo](https://github.com/ALWINTR/SPYBOT-WITH-METAL-AND-GAS-DETECTION) |
+| 🤖 **SpyBot Surveillance Robot** | `ESP32` `Arduino` `Sensors` `Embedded C` | Long-range surveillance rover with real-time hazardous gas detection and metal detection. | [View Repo](https://github.com/ALWINTR/spybot-metal-and-gas-detection) |
 | ♻️ **Automated Waste Segregation** | `PIC16F877A` `NEMA 17` `Inductive & IR` | Smart sorting mechanism utilizing stepper carousel indexing and servo rejection flaps. | [View Repo](https://github.com/ALWINTR/waste-segregation-system) |
 | 🦾 **ESP32 Bipedal Walking Robot** | `ESP32` `FreeRTOS` `Multi-Servo` | 4-DOF bipedal robot with synchronized joint kinematics, gait timing, and wireless telemetry. | [View Repo](https://github.com/ALWINTR/esp32-bipedal-robot) |
-| 🔐 **RFID Access Control System** | `PIC16F877A` `16x2 LCD` `Servo Lock` | Secure RFID authentication system with Proteus simulation, LCD prompts, and automated locking. | [View Repo](https://github.com/ALWINTR/RFID-Based-Secure-Access-Control-System-PIC16F877A-) |
-| 🌍 **Earthquake Monitoring System** | `Arduino` `MPU6050` `Buzzer Alert` | Real-time seismic vibration monitoring, threshold-triggered alerts, and sensor telemetry. | [View Repo](https://github.com/ALWINTR/Earthquake_Monitoring_System) |
+| 🔐 **RFID Access Control System** | `PIC16F877A` `16x2 LCD` `Servo Lock` | Secure RFID authentication system with Proteus simulation, LCD prompts, and automated locking. | [View Repo](https://github.com/ALWINTR/rfid-access-control-pic16f877a) |
+| 🌍 **Earthquake Monitoring System** | `Arduino` `MPU6050` `Buzzer Alert` | Real-time seismic vibration monitoring, threshold-triggered alerts, and sensor telemetry. | [View Repo](https://github.com/ALWINTR/earthquake-monitoring-system) |
 | 🌧️ **Rain Sensor Auto Shield** | `Arduino Uno` `Rain Sensor` `Servo` | Weather-responsive automatic servo shelter deployment with analog precipitation detection. | [View Repo](https://github.com/ALWINTR/rain-sensor-servo) |
 | 🌐 **ESP Webserver Servo Controller** | `ESP32 / ESP8266` `HTTP` `PWM` | Embedded asynchronous HTTP webserver with real-time interactive HTML5 slider angle control. | [View Repo](https://github.com/ALWINTR/esp-webserver-servo) |
 | 📱 **Blynk 2.0 Servo IoT Controller** | `ESP32 / ESP8266` `Blynk Cloud` | Cloud-connected mobile app interface for remote precision 180° servo positioning. | [View Repo](https://github.com/ALWINTR/blynk-servo-controller) |
