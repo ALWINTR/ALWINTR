@@ -44,10 +44,7 @@
 | **[ESP32 Firmware Architecture Laboratory](https://github.com/ALWINTR/ESP32-Embedded-Systems-and-Firmware-Architecture-Laboratory)** | ESP32 • ESP-IDF Native C • FreeRTOS | Modular peripheral drivers, ring buffers, dual-core task pinning, and non-volatile storage (NVS). |
 | **[Developer Synchronization Suite](https://github.com/ALWINTR/Developer-Repository-and-Conversation-Synchronization-Suite)** | Python 3.10+ • GitHub CLI (`gh`) | Automated developer session synchronization toolchain maintaining version-controlled archives. |
 
----
 
-
-👉 **[alwintr.github.io](https://alwintr.github.io)**
 
 ---
 
