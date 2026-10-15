@@ -46,9 +46,6 @@
 
 ---
 
-### 🌐 Interactive Portfolio
-
-Explore interactive system specs, hardware Bill of Materials (BOM) tables, and circuit pinout interconnects at:
 
 👉 **[alwintr.github.io](https://alwintr.github.io)**
 
