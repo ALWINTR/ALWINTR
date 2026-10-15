@@ -51,6 +51,6 @@
 ### 📬 Connect
 
 - **Portfolio**: [alwintr.github.io](https://alwintr.github.io)
-- **LinkedIn**: [linkedin.com/in/alwintr](https://www.linkedin.com/in/alwintr)
+- **LinkedIn**: www.linkedin.com/in/alwin-t-r-
 - **GitHub**: [github.com/ALWINTR](https://github.com/ALWINTR)
 - **Email**: [alwintr2003@gmail.com](mailto:alwintr2003@gmail.com)
