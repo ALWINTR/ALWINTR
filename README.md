@@ -5,7 +5,7 @@
 
 <p>
   <a href="https://alwintr.github.io"><img src="https://img.shields.io/badge/Portfolio-alwintr.github.io-00f0ff?style=flat-square&logo=googlechrome&logoColor=black" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/alwintr"><img src="https://img.shields.io/badge/LinkedIn-Alwin_T_R-0a66c2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/alwin-t-r-"><img src="https://img.shields.io/badge/LinkedIn-Alwin_T_R-0a66c2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://github.com/ALWINTR"><img src="https://img.shields.io/badge/GitHub-ALWINTR-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="mailto:alwintr2003@gmail.com"><img src="https://img.shields.io/badge/Email-alwintr2003%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
@@ -51,6 +51,6 @@
 ### 📬 Connect
 
 - **Portfolio**: [alwintr.github.io](https://alwintr.github.io)
-- **LinkedIn**: www.linkedin.com/in/alwin-t-r-
+- **LinkedIn**: [linkedin.com/in/alwin-t-r-](https://www.linkedin.com/in/alwin-t-r-)
 - **GitHub**: [github.com/ALWINTR](https://github.com/ALWINTR)
 - **Email**: [alwintr2003@gmail.com](mailto:alwintr2003@gmail.com)
