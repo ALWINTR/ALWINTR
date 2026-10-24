@@ -27,7 +27,7 @@
 | Project | Stack | Highlights |
 | :--- | :--- | :--- |
 | **[Autonomous Reconnaissance Rover](https://github.com/ALWINTR/Autonomous-Reconnaissance-Rover-with-Gas-and-Metal-Detection)** | ESP32-CAM • Arduino • MQ-2 • Metal Sensor | All-terrain rover with real-time video streaming, hazardous gas sensing, and metal detection. |
-| **[ESP32 4-DOF Bipedal Walking Robot](https://github.com/ALWINTR/ESP32-4-DOF-Bipedal-Walking-Robot-with-FreeRTOS-Kinematics)** | ESP32 • FreeRTOS • 4x MG996R Servos | Synchronized hip-ankle inverse kinematics with dynamic center-of-mass balance and telemetry. |
+| **[ESP32 6-DOF Bipedal Walking Robot](https://github.com/ALWINTR/ESP32-6-DOF-Bipedal-Walking-Robot-with-FreeRTOS-Kinematics)** | ESP32 • FreeRTOS • PCA9685 • 6x Servos | 6-joint dynamic 2D Inverse Kinematics with quintic zero-jerk swing trajectories and Web Studio. |
 | **[24GHz mmWave Human Presence Radar](https://github.com/ALWINTR/24GHz-mmWave-Human-Presence-and-Micro-Motion-Radar-Monitor)** | ESP32 • HLK-LD2410C FMCW Radar • UART | Sub-millimeter micro-motion and respiration tracking across 8 spatial range gates. |
 | **[Automated Multi-Material Sorting System](https://github.com/ALWINTR/Automated-Multi-Material-Waste-Classification-System)** | Arduino Uno • NEMA 17 • A4988 • Inductive | Closed-loop carousel indexing with metal detection and high-speed servo diversion flaps. |
 | **[RFID Secure Access Control (PIC16F877A)](https://github.com/ALWINTR/RFID-Secure-Access-Control-and-Authentication-System-PIC16F877A)** | Microchip PIC16F877A • RC522 SPI • 16x2 LCD | Hardware access control firmware with SPI RFID authentication and EEPROM whitelist validation. |
