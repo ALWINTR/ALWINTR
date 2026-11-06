@@ -59,15 +59,6 @@ Embedded Systems and Robotics Engineer specializing in real-time firmware archit
 
 ---
 
-### Professional Background
-
-* **Embedded Systems & Robotics Engineer** — Mepits Infotech Pvt. Ltd. (*May 2026 – Present*)  
-  Architecting embedded firmware and control algorithms on STM32 and ESP32 platforms; conducting peripheral validation and hardware-in-the-loop (HIL) testing.
-* **Robotics Trainee** — Evolve Robotics (*Aug 2025 – Apr 2026*)  
-  Engineered ROS 2 navigation nodes, SLAM sensor fusion pipelines, and deterministic motor control firmware.
-
----
-
 ### Connect
 
 * **Portfolio**: [alwintr.github.io](https://alwintr.github.io)
