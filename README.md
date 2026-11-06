@@ -1,24 +1,71 @@
+<div align="center">
+
 # Alwin T R
 
-> **Robotics & Automation Engineer** • **Embedded Systems Architect**  
-> Building autonomous mobile robots, real-time microkernel firmware (FreeRTOS / Bare-Metal C++), and industrial sensor systems.
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F0FF&center=true&vcenter=true&width=650&lines=Robotics+%26+Automation+Engineer;Embedded+Systems+%26+Firmware+Architect;FreeRTOS+%E2%80%A2+ROS2+%E2%80%A2+ESP32+%E2%80%A2+STM32;Building+Autonomous+Mobile+Robots" alt="Typing SVG" /></a>
 
-<p>
-  <a href="https://alwintr.github.io"><img src="https://img.shields.io/badge/Portfolio-alwintr.github.io-00f0ff?style=flat-square&logo=googlechrome&logoColor=black" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/alwin-t-r-"><img src="https://img.shields.io/badge/LinkedIn-Alwin_T_R-0a66c2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/ALWINTR"><img src="https://img.shields.io/badge/GitHub-ALWINTR-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="mailto:alwintr2003@gmail.com"><img src="https://img.shields.io/badge/Email-alwintr2003%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+<p align="center">
+  <a href="https://alwintr.github.io"><img src="https://img.shields.io/badge/Portfolio-alwintr.github.io-00f0ff?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/alwin-t-r-"><img src="https://img.shields.io/badge/LinkedIn-Alwin_T_R-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/ALWINTR"><img src="https://img.shields.io/badge/GitHub-ALWINTR-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="mailto:alwintr2003@gmail.com"><img src="https://img.shields.io/badge/Email-alwintr2003%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
+
+</div>
 
 ---
 
-### ⚡ Core Technologies
+### ⚡ Technical Arsenal
 
-- **Microcontrollers & Processors**: ESP32 (Xtensa Dual-Core), STM32 (ARM Cortex-M), PIC16F877A, ATmega328P, Raspberry Pi 4
-- **Firmware & RTOS**: FreeRTOS Preemptive Kernel, Bare-Metal C, C++17, PIC Assembly / XC8, Python
-- **Robotics & Kinematics**: ROS2 (Humble), Gazebo Dynamic Simulation, Forward & Inverse Kinematics, Gait Generation
-- **Protocols & Busses**: UART, SPI, I2C, CAN Bus, 16-Bit Hardware PWM, ADC/DAC, Hardware Interrupts (ISR)
-- **Sensors & Wireless**: 24GHz mmWave FMCW Radar, Wi-Fi 802.11, Blynk 2.0 Cloud, ESPAsyncWebServer, MQTT
+<div align="center">
+
+#### Microcontrollers & Hardware Platforms
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white)
+![PIC MCU](https://img.shields.io/badge/Microchip_PIC-FF6600?style=flat-square&logo=microchip&logoColor=white)
+
+#### Firmware, RTOS & Languages
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++17-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-008080?style=flat-square&logo=freertos&logoColor=white)
+![Python](https://img.shields.io/badge/Python_3-3776AB?style=flat-square&logo=python&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-4EAA25?style=flat-square&logo=assemblyscript&logoColor=white)
+
+#### Robotics, Simulation & Vision
+![ROS 2](https://img.shields.io/badge/ROS_2_Humble-22314E?style=flat-square&logo=ros&logoColor=white)
+![Gazebo](https://img.shields.io/badge/Gazebo_Sim-F28500?style=flat-square&logo=gazebo&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Kinematics](https://img.shields.io/badge/Inverse_Kinematics-00bcd4?style=flat-square&logoColor=white)
+
+#### Industrial Protocols & Wireless
+![CAN Bus](https://img.shields.io/badge/CAN_Bus-0052CC?style=flat-square&logoColor=white)
+![UART/SPI/I2C](https://img.shields.io/badge/UART_%7C_SPI_%7C_I2C-20B2AA?style=flat-square&logoColor=white)
+![ESP-NOW](https://img.shields.io/badge/ESP--NOW-E7352C?style=flat-square&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
+![mmWave Radar](https://img.shields.io/badge/24GHz_mmWave_FMCW-4682B4?style=flat-square&logoColor=white)
+
+#### Toolchains & Developer Tools
+![Linux](https://img.shields.io/badge/Ubuntu_Linux-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![PlatformIO](https://img.shields.io/badge/PlatformIO-F5822A?style=flat-square&logo=platformio&logoColor=white)
+![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-03234B?style=flat-square&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub CLI](https://img.shields.io/badge/GitHub_CLI-181717?style=flat-square&logo=github&logoColor=white)
+
+</div>
+
+---
+
+### 📊 Engineering Activity & Metrics
+
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ALWINTR&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Alwin's GitHub Stats" height="175" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ALWINTR&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="175" />
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ALWINTR&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
 
 ---
 
@@ -44,13 +91,13 @@
 | **[ESP32 Firmware Architecture Laboratory](https://github.com/ALWINTR/ESP32-Embedded-Systems-and-Firmware-Architecture-Laboratory)** | ESP32 • ESP-IDF Native C • FreeRTOS | Modular peripheral drivers, ring buffers, dual-core task pinning, and non-volatile storage (NVS). |
 | **[Developer Synchronization Suite](https://github.com/ALWINTR/Developer-Repository-and-Conversation-Synchronization-Suite)** | Python 3.10+ • GitHub CLI (`gh`) | Automated developer session synchronization toolchain maintaining version-controlled archives. |
 
-
-
 ---
 
-### 📬 Connect
+### 📬 Connect & Collaborate
 
-- **Portfolio**: [alwintr.github.io](https://alwintr.github.io)
-- **LinkedIn**: [linkedin.com/in/alwin-t-r-](https://www.linkedin.com/in/alwin-t-r-)
-- **GitHub**: [github.com/ALWINTR](https://github.com/ALWINTR)
-- **Email**: [alwintr2003@gmail.com](mailto:alwintr2003@gmail.com)
+<p align="center">
+  <a href="https://alwintr.github.io"><img src="https://img.shields.io/badge/Portfolio-alwintr.github.io-00f0ff?style=flat-square&logo=googlechrome&logoColor=black" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/alwin-t-r-"><img src="https://img.shields.io/badge/LinkedIn-Alwin_T_R-0a66c2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/ALWINTR"><img src="https://img.shields.io/badge/GitHub-ALWINTR-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="mailto:alwintr2003@gmail.com"><img src="https://img.shields.io/badge/Email-alwintr2003%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
