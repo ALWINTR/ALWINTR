@@ -44,14 +44,7 @@ Embedded Systems and Robotics Engineer specializing in real-time firmware archit
   * Integrated multi-sensor hazard detection fusing MQ-2 combustible gas monitoring with inductive metallic anomaly detection via edge-triggered alert interrupts.
   * Implemented fail-safe motor drive control across dual H-bridge drivers with automatic emergency braking on signal drop.
 
-#### 4. [ROS 2 Autonomous Differential-Drive Mobile Robot](https://github.com/ALWINTR)
-* **Stack**: ROS 2 (Humble) • Nav2 • 2D LiDAR • Cartographer SLAM • C++ • Python • Gazebo
-* **Engineering Highlights**:
-  * Developed custom ROS 2 nodes for differential-drive kinematics, wheel encoder odometry integration, and motor PWM actuation.
-  * Configured 2D SLAM and Nav2 navigation pipeline, fusing planar LiDAR scans and wheel odometry through an Extended Kalman Filter (EKF) for reliable localization in GPS-denied indoor environments.
-  * Validated dynamic obstacle avoidance and path planning algorithms across Gazebo physics simulations and physical mobile base hardware.
-
-#### 5. [RFID Secure Access Control & Authentication System (PIC16F877A)](https://github.com/ALWINTR/RFID-Secure-Access-Control-and-Authentication-System-PIC16F877A)
+#### 4. [RFID Secure Access Control & Authentication System (PIC16F877A)](https://github.com/ALWINTR/RFID-Secure-Access-Control-and-Authentication-System-PIC16F877A)
 * **Stack**: Microchip PIC16F877A • RC522 RFID • SPI Protocol • PIC Assembly / XC8 • 16x2 LCD
 * **Engineering Highlights**:
   * Implemented bare-metal access control firmware interfacing a 13.56MHz MFRC522 RFID reader over SPI on a resource-constrained 8-bit PIC MCU.
