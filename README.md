@@ -51,13 +51,7 @@ Embedded Systems and Robotics Engineer specializing in real-time firmware archit
   * Configured 2D SLAM and Nav2 navigation pipeline, fusing planar LiDAR scans and wheel odometry through an Extended Kalman Filter (EKF) for reliable localization in GPS-denied indoor environments.
   * Validated dynamic obstacle avoidance and path planning algorithms across Gazebo physics simulations and physical mobile base hardware.
 
-#### 5. [ESP32 Embedded Systems & Firmware Architecture Laboratory](https://github.com/ALWINTR/ESP32-Embedded-Systems-and-Firmware-Architecture-Laboratory)
-* **Stack**: ESP32 • ESP-IDF Native C • FreeRTOS • NVS Flash • Hardware Timers
-* **Engineering Highlights**:
-  * Modular firmware architecture demonstrating production-grade embedded patterns: peripheral hardware abstraction layers (HAL), ring buffer implementations, and thread-safe queues.
-  * Configured non-volatile flash storage (NVS) for persistent system parameters and fault logging across power cycles.
-
-#### 6. [RFID Secure Access Control & Authentication System (PIC16F877A)](https://github.com/ALWINTR/RFID-Secure-Access-Control-and-Authentication-System-PIC16F877A)
+#### 5. [RFID Secure Access Control & Authentication System (PIC16F877A)](https://github.com/ALWINTR/RFID-Secure-Access-Control-and-Authentication-System-PIC16F877A)
 * **Stack**: Microchip PIC16F877A • RC522 RFID • SPI Protocol • PIC Assembly / XC8 • 16x2 LCD
 * **Engineering Highlights**:
   * Implemented bare-metal access control firmware interfacing a 13.56MHz MFRC522 RFID reader over SPI on a resource-constrained 8-bit PIC MCU.
